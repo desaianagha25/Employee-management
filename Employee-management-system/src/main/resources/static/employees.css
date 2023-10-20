@@ -1,0 +1,35 @@
+/* employees.css */
+
+body {
+	background-color: red;
+}
+
+.navbar {
+	background-color: black;
+}
+
+.container {
+	background-color: yellow;
+	padding: 20px;
+	border-radius: 10px;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+h1 {
+	color: black;
+}
+
+table {
+	background-color: white;
+}
+
+.table th {
+	background-color: red;
+	color: whitesmoke;
+}
+a{
+	position: relative;
+    width: 100%;
+    padding-top: 12px;
+    padding-left: 192px;
+}
